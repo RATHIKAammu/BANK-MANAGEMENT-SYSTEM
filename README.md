@@ -89,6 +89,6 @@ java Main
 
 ##  Author
 
-Rathika S — B.E. Electronics and Communication Engineering  
+Rathika S 
 KGiSL Institute of Technology, Coimbatore  
-GitHub: github.com/rathikaseenivas
+
